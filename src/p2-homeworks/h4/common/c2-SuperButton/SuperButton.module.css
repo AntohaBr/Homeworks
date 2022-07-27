@@ -1,7 +1,21 @@
 .default {
-
+    background: #fffac5;
+    border-radius: 5px;
+    border-color: rgba(255, 253, 213, 0.67);
+    margin-top: 15px;
+    font-family: Georgia;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
 }
 
 .red {
-    background: red;
+    background: #ff2600;
+    border-radius: 5px;
+border-color: #c21700;
+    margin-top: 10px;
+    font-family: Georgia;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
 }
